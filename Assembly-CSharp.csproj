@@ -6,11 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-<<<<<<< HEAD
     <ProjectGuid>{E4177230-FA41-73AB-1287-1C834D80D818}</ProjectGuid>
-=======
-    <ProjectGuid>{9A0CC980-DB35-C425-A1D6-86EEE9444F79}</ProjectGuid>
->>>>>>> origin/master
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -50,13 +46,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
+     <Compile Include="Assets\Scripts\CameraController.cs" />
+     <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\Repeating.cs" />
      <Compile Include="Assets\Scripts\Scroll.cs" />
-=======
-     <Compile Include="Assets\CameraController.cs" />
-     <Compile Include="Assets\PlayerController.cs" />
->>>>>>> origin/master
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
